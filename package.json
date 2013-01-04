@@ -1,0 +1,4 @@
+{
+	"name": "node-hwp",
+	"main": "./lib/hwp.js"
+}
