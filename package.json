@@ -1,5 +1,5 @@
 {
-	"name": "node-hwp",
+	"name": "hwp",
 	"version": "0.0.1",
 	"author": "Jimin Park <pjm950@gmail.com>",
 	"description": "An attempt to make a node library for opening hwp documents",
